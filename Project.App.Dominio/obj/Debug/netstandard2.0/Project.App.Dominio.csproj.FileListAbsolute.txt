@@ -1,0 +1,36 @@
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csprojAssemblyReference.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfoInputs.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfo.cs
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.deps.json
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.deps.json
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.AssemblyReference.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfoInputs.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfo.cs
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.deps.json
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.AssemblyReference.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfo.cs
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.deps.json
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\bin\Debug\netstandard2.0\Project.App.Dominio.pdb
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csprojAssemblyReference.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfoInputs.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.AssemblyInfo.cs
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.csproj.CoreCompileInputs.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.dll
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Dominio\obj\Debug\netstandard2.0\Project.App.Dominio.pdb

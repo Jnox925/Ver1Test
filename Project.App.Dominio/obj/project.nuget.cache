@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLkgMuck8xAmt3gdO+4aVk/VVR5ZwHF02wZb3xxKWmFkGwkXp/PjqUuHnZSDlZstgd5koi52GBwDfujWctOtcw==",
+  "success": true,
+  "projectFilePath": "C:\\CMHMR-V2-28092021\\CompuMundoHiperMegaRed-main\\Project.App\\Project.App.Dominio\\Project.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

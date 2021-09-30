@@ -1,0 +1,48 @@
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csprojAssemblyReference.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfoInputs.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfo.cs
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.deps.json
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.dll
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.pdb
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CopyComplete
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\Project\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.deps.json
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.dll
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.pdb
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.AssemblyReference.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfoInputs.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfo.cs
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CopyComplete
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\Proyecto Compu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.AssemblyReference.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfoInputs.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfo.cs
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.deps.json
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.dll
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.pdb
+C:\ProyectoCompu\CompuMundoHiperMegaRed\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CopyComplete
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.deps.json
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Persistencia.pdb
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.dll
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\bin\Debug\netstandard2.1\Project.App.Dominio.pdb
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csprojAssemblyReference.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfoInputs.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.AssemblyInfo.cs
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.csproj.CopyComplete
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.dll
+C:\CMHMR-V2-28092021\CompuMundoHiperMegaRed-main\Project.App\Project.App.Persistencia\obj\Debug\netstandard2.1\Project.App.Persistencia.pdb
